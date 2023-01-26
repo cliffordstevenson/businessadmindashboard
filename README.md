@@ -2,7 +2,7 @@
 
 ## This Next.js project was designed with the intent of providing a dashboard for businesses to track users, payments and orders. 
 
-Enterprise-level dashboard in Next.js styled with tailwind CSS. Chart.js was used to create a responsive graph for businesses to monitor daily revenue.
+Responsive dashboard interface for businesses to track users, payments and orders. Chart.js was used to create a responsive graph for businesses to monitor daily revenue. Styled with tailwind CSS.
 
 * Next.js, react-icons and tailwind CSS used to efficiently generate a user-friendly, responsive website
 * Information displayed with dummy data stored manually
