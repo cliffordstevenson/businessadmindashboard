@@ -48,7 +48,7 @@ Single contribution project
 ### Gifs
 
 ##### App Demo
-![app-demo](./img/app-demo.gif) NOT YET POSTED
+![app-demo](./img/app-demo.gif)
 
 <a href="https://www.youtube.com/watch?v=P7Sy5SdpQjo" target="_blank">
   <img src="Screenshot_20230126_011340.png" alt="watch video" width=250 height=170 border=10 />
