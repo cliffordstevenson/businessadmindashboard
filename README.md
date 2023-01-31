@@ -1,36 +1,68 @@
 # Business Admin Dashboard
+[![License](https://img.shields.io/badge/license-Other-orange)](https://opensource.org/licenses)
 
-## This Next.js project was designed with the intent of providing a dashboard for businesses to track users, payments and orders. 
+### User Story
+```
+AS a user, 
+I WANT to be able monitor revenue, clients and their orders 
+SO THAT everything is organized and easy to read.
+```
 
-Responsive dashboard interface for businesses to track users, payments and orders. Chart.js was used to create a responsive graph for businesses to monitor daily revenue. Styled with tailwind CSS.
+### Business Context
 
-* Next.js, react-icons and tailwind CSS used to efficiently generate a user-friendly, responsive website
-* Information displayed with dummy data stored manually
-* Chart.jsx used to create a responsive graph for business to monitor daily revenue
+A business owner would benefit from a modern, stylish and easy-to-read dashboard by which they can see the goings-on of their business
 
-## Watch the demo
+## Table of Contents
+
+[Deployment](#deployment)
+
+[Installation](#installation)
+
+[Contribution](#contribution)
+
+[Gifs](#gifs)
+
+[Questions](#questions)
+
+----
+
+<a name="deployment"></a>
+### Deployment
+
+[Business Admin Dashboard](https://cliffordstevenson.github.io/businessadmindashboard/)
+
+<a name="installation"></a>
+### Installation
+
+For local hosting:
+
+1. `git clone` this repository
+2. `npm run dev`
+
+<a name="contribution"></a>
+### Contribution
+
+Single contribution project 
+
+<a name="gifs"></a>
+### Gifs
+
+##### App Demo
+![app-demo](./img/app-demo.gif) NOT YET POSTED
+
 <a href="https://www.youtube.com/watch?v=j_0gAi-mRqQ" target="_blank">
   <img src="Screenshot_20230126_011340.png" alt="watch video" width=250 height=170 border=10 />
 </a>
 
+----
 
-## How to run this project on your local device
+<a name="questions"></a>
+### Questions
+##### Contact Me
 
-First, run the development server:
+Feel free to contact me via GitHub or email with any feedback - thanks for checking out my code!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-## Find a bug? 
-feel free to contact me via email
+[GitHub u/cliffordstevenson](https://github.com/cliffordstevenson)
+clifford.andrew.stevenson@gmail.com
 
 
